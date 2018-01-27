@@ -1,16 +1,15 @@
 /* #*/ export const PERSON = `
 name:
   first: Sinan
-  middle:
   last: Abdulraheem
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
+about: Hi, my name is Sinan Abdulraheem. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1993
+  location: Austin,TX
 
 experience:
 - company: Company A
@@ -42,29 +41,29 @@ skills:
 - name: HTML5
   level: 99
 - name: CSS3
-  level: 95
+  level:95
 - name: JavaScript
-  level: 97
+  level:75
+ - name:Jquery
+  level:75
 - name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
+  level:75
+- name: MongoDB
+level : 80
+- name : MySQL
+level : 65 
+- name : React 
+level : 50
+
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
+  email: sinan.abdulraheem@gmail.com
+  phone: 512-577-8173
+  street: 11900 hooby horse ct 
+  city: Austin
   website: johndoe.com
-  github: johnyD
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
-lang: en
+  github: sinansamarai
+
 `
